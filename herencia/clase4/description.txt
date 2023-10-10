@@ -1,0 +1,4 @@
+Herencia múltiple
+
+En Python es posible realizar herencia múltiple.
+Heredd de varias clases padre en vez de una sola.

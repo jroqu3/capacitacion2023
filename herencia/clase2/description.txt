@@ -1,0 +1,3 @@
+Extendiendo y modificando métodos
+
+Los métodos de la clase Padre puede sobreescribirse desde las clases Hijas, y hasta agregarse nuevos métodos.
